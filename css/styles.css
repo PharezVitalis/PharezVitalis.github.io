@@ -373,6 +373,10 @@ select:disabled {
   display: none;
 }
 
+.spanned-image{
+    object-fit: cover;
+}
+
 button,
 [type=button],
 [type=reset],
